@@ -1,0 +1,2 @@
+Cac so nguyen to:  13  5  11  7  23  17 Co tong 76
+Cac hop so:  10  21  18  9  8 
